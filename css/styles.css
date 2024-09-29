@@ -403,7 +403,7 @@ img {
 }
 
 .footer-social {
-  margin-right: 120px;
+  margin-right: 80px;
 }
 .footer-title {
   font-weight: 500;
@@ -523,7 +523,6 @@ img {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 408px;
-  height: 80%;
   min-height: 584px;
   overflow: auto;
   padding: 72px 24px 24px 24px;
@@ -684,8 +683,8 @@ img {
   min-width: 169px;
   height: 56px;
   padding: 16px 32px;
-  margin: 24px auto;
-
+  margin-left: auto;
+  margin-right: auto;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
